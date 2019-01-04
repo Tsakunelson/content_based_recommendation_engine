@@ -10,6 +10,8 @@ In this recommendation technique, we use information that is known about the use
 
 In content based techniques, you are using information about the users and items, but not connections (hence the usefulness when you do not have a lot of internal data already available to use).
 
+![Content based recommendation technique](https://github.com/Tsakunelson/content_based_recommendation_engine/blob/master/content_based_recs.png)
+
 ## File Descrition
 We have access to three important items that will be used throughout the notebook.
 
