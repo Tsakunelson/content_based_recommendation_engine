@@ -14,6 +14,8 @@ In content based techniques, you are using information about the users and items
 
 ![Content based recommendation technique](https://github.com/Tsakunelson/content_based_recommendation_engine/blob/master/content_based_recs.png)
 
+<img src="https://github.com/Tsakunelson/content_based_recommendation_engine/blob/master/content_based_recs.png" alt="Content based recommendation technique">
+
 ## File Descrition
 We have access to three important items that will be used throughout the notebook.
 
