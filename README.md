@@ -1,9 +1,9 @@
 # content_based_recommendation_engine
 Content_based recommendations
 
-Installation
+Installation requrements
 
-Anaconda 4.5.11 distribution Python 3.6 Download Tensorflow
+Anaconda 4.5.11 distribution | Python 3.6 | Tensorflow
 
 ## Project Motivation
 In the previous notebook, we implemented collaborative filtering to make recommendations based on users similarity. However, there were a number of users who did not receive recommendations when using this technique. For this reason, we employ content based recommendations to find relevant items to recommend to users.
