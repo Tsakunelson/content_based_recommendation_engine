@@ -13,7 +13,7 @@ In this recommendation technique, we use information that is known about the use
 In content based techniques, you are using information about the users and items, but not connections (hence the usefulness when you do not have a lot of internal data already available to use).
 
 <img src="https://github.com/Tsakunelson/content_based_recommendation_engine/blob/master/content_based_recs.png" alt="Content based recommendation technique">
-<img src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwiIyaHwtp3gAhULVd8KHUtrCukQjRx6BAgBEAU&url=https%3A%2F%2Ftowardsdatascience.com%2Fhow-to-build-from-scratch-a-content-based-movie-recommender-with-natural-language-processing-25ad400eb243&psig=AOvVaw13FWx91kS6JaavsWIQ8gU7&ust=1549209927792021" alt="Content based recommendation technique">
+<img src="https://cdn-images-1.medium.com/max/1200/1*BME1JjIlBEAI9BV5pOO5Mg.png" alt="Content based recommendation technique">
 
 
 ## File Descrition
