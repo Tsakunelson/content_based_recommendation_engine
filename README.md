@@ -4,7 +4,7 @@ Installation
 Anaconda 4.5.11 distribution Python 3.6 Download Tensorflow
 
 ## Project Motivation
-In the previous notebook, we implemented collaborative filtering to make recommendations based on finding similar users. However, there were a number of users who did not receive recommendations when using this technique. For this reason, we employ content based recommendations to find relevant items to recommend to users.
+In the previous notebook, we implemented collaborative filtering to make recommendations based on users similarity. However, there were a number of users who did not receive recommendations when using this technique. For this reason, we employ content based recommendations to find relevant items to recommend to users.
 
 In this recommendation technique, we use information that is known about the user or item to make recommendations. This method of making recommendations is particularly useful when we do not have a lot of user-item interactions available in our dataset.
 
